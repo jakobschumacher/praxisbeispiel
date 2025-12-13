@@ -1,0 +1,42 @@
+{{ define "main" }}
+<div class="hero">
+    <h2>Herzlich willkommen in unserer Praxis</h2>
+    {{ .Content }}
+</div>
+
+<div class="oeffnungszeiten-box">
+    <h3>Unsere Öffnungszeiten</h3>
+    <table class="oeffnungszeiten">
+        <tr>
+            <td><strong>Montag:</strong></td>
+            <td>{{ .Site.Params.oeffnungszeiten.montag }}</td>
+        </tr>
+        <tr>
+            <td><strong>Dienstag:</strong></td>
+            <td>{{ .Site.Params.oeffnungszeiten.dienstag }}</td>
+        </tr>
+        <tr>
+            <td><strong>Mittwoch:</strong></td>
+            <td>{{ .Site.Params.oeffnungszeiten.mittwoch }}</td>
+        </tr>
+        <tr>
+            <td><strong>Donnerstag:</strong></td>
+            <td>{{ .Site.Params.oeffnungszeiten.donnerstag }}</td>
+        </tr>
+        <tr>
+            <td><strong>Freitag:</strong></td>
+            <td>{{ .Site.Params.oeffnungszeiten.freitag }}</td>
+        </tr>
+        <tr>
+            <td><strong>Samstag:</strong></td>
+            <td>{{ .Site.Params.oeffnungszeiten.samstag }}</td>
+        </tr>
+        <tr>
+            <td><strong>Sonntag:</strong></td>
+            <td>{{ .Site.Params.oeffnungszeiten.sonntag }}</td>
+        </tr>
+    </table>
+    <p class="termin-hinweis"><strong>Termine nur nach Vereinbarung.</strong><br>
+    Bitte rufen Sie uns an: <a href="tel:{{ replace .Site.Params.telefon " " "" }}">{{ .Site.Params.telefon }}</a></p>
+</div>
+{{ end }}

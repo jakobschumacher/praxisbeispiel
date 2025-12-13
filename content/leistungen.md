@@ -1,0 +1,60 @@
+---
+title: "Unsere Leistungen"
+---
+
+In unserer Praxis bieten wir Ihnen ein umfassendes Spektrum an gynäkologischen Leistungen. Wir begleiten Sie von der Vorsorge über die Schwangerschaft bis zur Behandlung verschiedener Erkrankungen.
+
+## Vorsorge und Früherkennung
+
+### Krebsfrüherkennung
+- Abstrich (Pap-Test)
+- HPV-Test
+- Brustuntersuchung
+- Ultraschalluntersuchungen
+
+### Gynäkologische Vorsorge
+- Jährliche Kontrolluntersuchung
+- Beratung zu allen Fragen der Frauengesundheit
+- Individuelle Risikoabschätzung
+
+## Schwangerschaft und Geburtshilfe
+
+### Schwangerenvorsorge
+- Vorsorgeuntersuchungen nach Mutterschaftsrichtlinien
+- Ultraschalldiagnostik
+- CTG (Herzton-Wehenschreibung)
+- Beratung und Betreuung während der gesamten Schwangerschaft
+
+### Pränatale Diagnostik
+- Ersttrimester-Screening
+- Feindiagnostik
+- 3D/4D-Ultraschall
+
+## Verhütung
+
+- Beratung zu allen Verhütungsmethoden
+- Verschreibung der Anti-Baby-Pille
+- Einlage von Spiralen (Kupferspirale, Hormonspirale)
+- Verhütungsstäbchen
+- Verhütungspflaster und -ring
+
+## Behandlungen
+
+### Gynäkologische Erkrankungen
+- Behandlung von Infektionen
+- Therapie bei Zyklusstörungen
+- Behandlung von Myomen und Zysten
+- Hormontherapie
+
+### Wechseljahre
+- Beratung und Behandlung bei Wechseljahrsbeschwerden
+- Hormonersatztherapie
+- Alternative Therapiemöglichkeiten
+
+## Zusatzleistungen (IGeL)
+
+Auf Wunsch bieten wir auch erweiterte Untersuchungen und Behandlungen an, die nicht im Leistungskatalog der gesetzlichen Krankenkassen enthalten sind. Sprechen Sie uns gerne an!
+
+---
+
+**Haben Sie Fragen zu unserem Leistungsangebot? Wir beraten Sie gerne persönlich.**

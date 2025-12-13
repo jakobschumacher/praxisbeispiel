@@ -1,0 +1,62 @@
+---
+title: "Kontakt"
+---
+
+## So erreichen Sie uns
+
+**Gynäkologische Praxis Musterfrau**
+Dr. med. Erika Musterfrau
+
+Musterstraße 123
+12345 Berlin
+
+**Telefon:** 030 123 456 78
+**E-Mail:** praxis@beispiel.de
+
+---
+
+## Öffnungszeiten
+
+| Tag | Zeiten |
+|-----|--------|
+| **Montag** | 08:00 - 12:00 und 14:00 - 18:00 Uhr |
+| **Dienstag** | 08:00 - 12:00 und 14:00 - 18:00 Uhr |
+| **Mittwoch** | 08:00 - 12:00 Uhr |
+| **Donnerstag** | 08:00 - 12:00 und 14:00 - 18:00 Uhr |
+| **Freitag** | 08:00 - 12:00 Uhr |
+| **Samstag** | Geschlossen |
+| **Sonntag** | Geschlossen |
+
+**Termine nur nach Vereinbarung.**
+
+---
+
+## Terminvereinbarung
+
+Bitte vereinbaren Sie Termine telefonisch zu unseren Sprechzeiten. In dringenden Fällen bemühen wir uns, Ihnen kurzfristig einen Termin anzubieten.
+
+**Sprechzeiten:**
+Montag bis Freitag: 09:00 - 12:00 Uhr
+
+---
+
+## Anfahrt
+
+### Mit öffentlichen Verkehrsmitteln
+Unsere Praxis ist gut mit öffentlichen Verkehrsmitteln erreichbar. Die nächste U-Bahn-Station befindet sich in unmittelbarer Nähe.
+
+### Mit dem Auto
+Parkplätze finden Sie in der Umgebung sowie in nahegelegenen Parkhäusern.
+
+---
+
+## Wichtige Hinweise
+
+**Bitte bringen Sie zu Ihrem Termin mit:**
+- Versichertenkarte
+- Bonusheft (falls vorhanden)
+- Vorbefunde und Unterlagen von anderen Ärzten
+- Medikamentenliste
+
+**Bei Verhinderung:**
+Sollten Sie einen Termin nicht wahrnehmen können, bitten wir Sie, diesen mindestens 24 Stunden vorher abzusagen, damit wir ihn an andere Patientinnen vergeben können.

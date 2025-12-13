@@ -1,0 +1,72 @@
+---
+title: "Impressum"
+---
+
+## Angaben gemäß § 5 TMG
+
+**Gynäkologische Praxis Musterfrau**
+Dr. med. Erika Musterfrau
+
+Musterstraße 123
+12345 Berlin
+
+**Telefon:** 030 123 456 78
+**E-Mail:** praxis@beispiel.de
+
+---
+
+## Berufsbezeichnung und berufsrechtliche Regelungen
+
+**Berufsbezeichnung:** Ärztin (verliehen in Deutschland)
+
+**Zuständige Kammer:**
+Ärztekammer Berlin
+Friedrichstraße 16
+10969 Berlin
+
+**Zuständige Aufsichtsbehörde:**
+Landesamt für Gesundheit und Soziales Berlin
+Turmstraße 21
+10559 Berlin
+
+**Berufsrechtliche Regelungen:**
+- Berufsordnung für die Ärztinnen und Ärzte Berlins
+- Heilberufsgesetz
+
+Die berufsrechtlichen Regelungen können auf der Website der Ärztekammer Berlin eingesehen werden: www.aerztekammer-berlin.de
+
+---
+
+## Ärztliche Zulassung
+
+**Approbation:** Ärztliche Approbation erteilt durch die Senatsverwaltung für Gesundheit, Berlin
+
+**Fachärztliche Weiterbildung:** Fachärztin für Gynäkologie und Geburtshilfe
+
+**Kassenzulassung:** Kassenärztliche Vereinigung Berlin
+
+---
+
+## Haftungsausschluss
+
+### Haftung für Inhalte
+
+Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich.
+
+### Haftung für Links
+
+Unser Angebot enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich.
+
+### Urheberrecht
+
+Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers.
+
+---
+
+## Streitschlichtung
+
+Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: https://ec.europa.eu/consumers/odr
+
+Unsere E-Mail-Adresse finden Sie oben im Impressum.
+
+Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.

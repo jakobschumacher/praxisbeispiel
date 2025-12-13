@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
+    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.praxisname }} - Ihre gynäkologische Praxis in {{ .Site.Params.ort }}{{ end }}">
+    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>{{ .Site.Params.praxisname }}</h1>
+            <nav>
+                <ul>
+                    {{ range .Site.Menus.main }}
+                    <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+                    {{ end }}
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container">
+        {{ block "main" . }}{{ end }}
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>Kontakt</h3>
+                    <p>
+                        {{ .Site.Params.praxisname }}<br>
+                        {{ .Site.Params.strasse }}<br>
+                        {{ .Site.Params.plz }} {{ .Site.Params.ort }}<br>
+                        Tel: {{ .Site.Params.telefon }}<br>
+                        E-Mail: <a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a>
+                    </p>
+                </div>
+                <div class="footer-section">
+                    <h3>Rechtliches</h3>
+                    <p>
+                        <a href="/impressum/">Impressum</a><br>
+                        <a href="/datenschutz/">Datenschutzerklärung</a>
+                    </p>
+                </div>
+            </div>
+            <p class="copyright">&copy; {{ now.Year }} {{ .Site.Params.praxisname }}. Alle Rechte vorbehalten.</p>
+        </div>
+    </footer>
+</body>
+</html>
