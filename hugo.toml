@@ -1,7 +1,6 @@
 baseURL = 'https://jakobschumacher.github.io/praxisbeispiel/'
 languageCode = 'de-DE'
 title = 'Gynäkologische Praxis Musterfrau'
-theme = ''
 
 [params]
   # Praxis-Stammdaten (zentral an einer Stelle)
