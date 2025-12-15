@@ -52,15 +52,13 @@ Parkplätze finden Sie in der Umgebung sowie in nahegelegenen Parkhäusern.
 
 ## Wichtige Hinweise
 
-::: {.callout-important}
-## Bitte bringen Sie zu Ihrem Termin mit:
+**Bitte bringen Sie zu Ihrem Termin mit:**
+
 - Versichertenkarte
 - Bonusheft (falls vorhanden)
 - Vorbefunde und Unterlagen von anderen Ärzten
 - Medikamentenliste
-:::
 
-::: {.callout-warning}
-## Bei Verhinderung:
+**Bei Verhinderung:**
+
 Sollten Sie einen Termin nicht wahrnehmen können, bitten wir Sie, diesen mindestens 24 Stunden vorher abzusagen, damit wir ihn an andere Patientinnen vergeben können.
-:::
