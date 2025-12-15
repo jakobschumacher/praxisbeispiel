@@ -9,6 +9,7 @@ website:
 
   navbar:
     background: primary
+    logo: images/gynlogo.png
     title: "Gynäkologische Praxis Musterfrau"
     left:
       - text: "Startseite"
