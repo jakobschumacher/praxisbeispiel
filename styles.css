@@ -1,0 +1,107 @@
+/* Zusätzliche CSS-Anpassungen für die Praxis-Website */
+
+/* Container Anpassungen */
+.quarto-container {
+  max-width: 1200px;
+}
+
+/* Navbar Logo/Titel */
+.navbar-title {
+  font-weight: 600;
+  font-size: 1.3rem;
+}
+
+/* Hauptinhalt Bereich */
+main {
+  min-height: 60vh;
+}
+
+/* Verbesserte Lesbarkeit */
+p {
+  line-height: 1.8;
+  margin-bottom: 1rem;
+}
+
+/* Öffnungszeiten Tabelle */
+.oeffnungszeiten-box table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.oeffnungszeiten-box td {
+  padding: 0.5rem 0;
+  vertical-align: top;
+}
+
+.oeffnungszeiten-box td:first-child {
+  width: 150px;
+  font-weight: 600;
+}
+
+/* Kontakt-Hervorhebungen */
+.contact-info {
+  background-color: #f0f4f7;
+  padding: 1.5rem;
+  border-radius: 8px;
+  border-left: 4px solid #2c5f7c;
+}
+
+/* Professionelle Callout-Boxen */
+.callout {
+  border-radius: 8px;
+}
+
+.callout-title {
+  font-weight: 600;
+}
+
+/* Print-Styles */
+@media print {
+  .navbar,
+  .nav-footer {
+    display: none;
+  }
+
+  main {
+    margin: 0;
+    padding: 0;
+  }
+}
+
+/* Accessibility */
+a:focus,
+button:focus {
+  outline: 2px solid #2c5f7c;
+  outline-offset: 2px;
+}
+
+/* Mobile Optimierungen */
+@media (max-width: 768px) {
+  .oeffnungszeiten-box td {
+    display: block;
+    padding: 0.3rem 0;
+  }
+
+  .oeffnungszeiten-box td:first-child {
+    width: 100%;
+  }
+
+  table {
+    font-size: 0.95rem;
+  }
+}
+
+/* Sehr kleine Bildschirme */
+@media (max-width: 480px) {
+  body {
+    font-size: 0.95rem;
+  }
+
+  h1 {
+    font-size: 1.6rem;
+  }
+
+  h2 {
+    font-size: 1.3rem;
+  }
+}

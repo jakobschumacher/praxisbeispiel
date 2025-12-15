@@ -1,0 +1,53 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Gynäkologische Praxis Musterfrau"
+  description: "Gynäkologische Praxis Musterfrau - Ihre Praxis in Berlin"
+  site-url: https://jakobschumacher.github.io/praxisbeispiel/
+
+  navbar:
+    background: primary
+    logo: false
+    title: "Gynäkologische Praxis Musterfrau"
+    left:
+      - text: "Startseite"
+        href: index.qmd
+      - text: "Team"
+        href: team.qmd
+      - text: "Leistungen"
+        href: leistungen.qmd
+      - text: "Kontakt"
+        href: kontakt.qmd
+      - text: "Impressum"
+        href: impressum.qmd
+      - text: "Datenschutz"
+        href: datenschutz.qmd
+
+  page-footer:
+    background: dark
+    left: |
+      **Gynäkologische Praxis Musterfrau**
+      Dr. med. Erika Musterfrau
+      Musterstraße 123, 12345 Berlin
+      Tel: 030 123 456 78
+      E-Mail: [praxis@beispiel.de](mailto:praxis@beispiel.de)
+    right: |
+      [Impressum](impressum.qmd) | [Datenschutz](datenschutz.qmd)
+      © 2025 Gynäkologische Praxis Musterfrau
+
+format:
+  html:
+    theme:
+      - cosmo
+      - custom.scss
+    css: styles.css
+    toc: false
+    lang: de
+    page-layout: full
+    anchor-sections: false
+
+# Metadaten für alle Seiten
+metadata-files:
+  - _metadata.yml

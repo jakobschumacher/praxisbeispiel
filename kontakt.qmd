@@ -10,8 +10,8 @@ Dr. med. Erika Musterfrau
 Musterstraße 123
 12345 Berlin
 
-**Telefon:** 030 123 456 78
-**E-Mail:** praxis@beispiel.de
+**Telefon:** [030 123 456 78](tel:03012345678)
+**E-Mail:** [praxis@beispiel.de](mailto:praxis@beispiel.de)
 
 ---
 
@@ -52,11 +52,15 @@ Parkplätze finden Sie in der Umgebung sowie in nahegelegenen Parkhäusern.
 
 ## Wichtige Hinweise
 
-**Bitte bringen Sie zu Ihrem Termin mit:**
+::: {.callout-important}
+## Bitte bringen Sie zu Ihrem Termin mit:
 - Versichertenkarte
 - Bonusheft (falls vorhanden)
 - Vorbefunde und Unterlagen von anderen Ärzten
 - Medikamentenliste
+:::
 
-**Bei Verhinderung:**
+::: {.callout-warning}
+## Bei Verhinderung:
 Sollten Sie einen Termin nicht wahrnehmen können, bitten wir Sie, diesen mindestens 24 Stunden vorher abzusagen, damit wir ihn an andere Patientinnen vergeben können.
+:::

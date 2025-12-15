@@ -1,0 +1,22 @@
+# Globale Metadaten für alle Seiten
+lang: de
+date-format: "DD.MM.YYYY"
+
+# Praxis-Stammdaten (können in allen .qmd Dateien verwendet werden)
+praxis:
+  name: "Gynäkologische Praxis Musterfrau"
+  inhaberin: "Dr. med. Erika Musterfrau"
+  strasse: "Musterstraße 123"
+  plz: "12345"
+  ort: "Berlin"
+  telefon: "030 123 456 78"
+  email: "praxis@beispiel.de"
+
+oeffnungszeiten:
+  montag: "08:00 - 12:00 und 14:00 - 18:00 Uhr"
+  dienstag: "08:00 - 12:00 und 14:00 - 18:00 Uhr"
+  mittwoch: "08:00 - 12:00 Uhr"
+  donnerstag: "08:00 - 12:00 und 14:00 - 18:00 Uhr"
+  freitag: "08:00 - 12:00 Uhr"
+  samstag: "Geschlossen"
+  sonntag: "Geschlossen"
