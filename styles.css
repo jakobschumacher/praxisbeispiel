@@ -1,58 +1,204 @@
-/* Zusätzliche CSS-Anpassungen für die Praxis-Website */
+/* Zusätzliche CSS-Anpassungen im Editorial-Stil */
 
-/* Container Anpassungen */
+/* Container mit sanftem Stil */
 .quarto-container {
   max-width: 1200px;
+  margin: 0 auto;
 }
 
-/* Navbar Logo/Titel */
-.navbar-title {
-  font-weight: 600;
-  font-size: 1.3rem;
+/* Verbesserte Lesbarkeit im Editorial-Stil */
+p {
+  line-height: 1.8;
+  margin-bottom: 1.2rem;
+  color: #2D3142;
 }
 
-/* Hauptinhalt Bereich */
+/* Hauptinhalt mit Editorial-Feeling */
 main {
   min-height: 60vh;
 }
 
-/* Verbesserte Lesbarkeit */
-p {
-  line-height: 1.8;
-  margin-bottom: 1rem;
+/* Öffnungszeiten-Box mit Editorial-Stil */
+.oeffnungszeiten-box {
+  background: linear-gradient(135deg, #FAF3E0 0%, #F4E4D7 100%);
+  padding: 2rem;
+  border-radius: 16px;
+  border-left: 4px solid #E76F51;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  margin: 2rem 0;
+  transition: all 0.3s ease;
 }
 
-/* Öffnungszeiten Tabelle */
+.oeffnungszeiten-box:hover {
+  box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+  transform: translateY(-4px);
+}
+
+.oeffnungszeiten-box h3 {
+  color: #E76F51;
+  font-family: 'Poppins', sans-serif;
+  margin-bottom: 1.5rem;
+}
+
 .oeffnungszeiten-box table {
   width: 100%;
-  border-collapse: collapse;
+  border-collapse: separate;
+  border-spacing: 0;
+  background-color: white;
+  border-radius: 12px;
+  overflow: hidden;
 }
 
 .oeffnungszeiten-box td {
-  padding: 0.5rem 0;
+  padding: 0.75rem 1rem;
   vertical-align: top;
+  border-bottom: 1px solid rgba(0,0,0,0.05);
+}
+
+.oeffnungszeiten-box tr:last-child td {
+  border-bottom: none;
 }
 
 .oeffnungszeiten-box td:first-child {
   width: 150px;
   font-weight: 600;
+  color: #E76F51;
 }
 
-/* Kontakt-Hervorhebungen */
+/* Kontakt-Hervorhebungen im Editorial-Stil */
 .contact-info {
-  background-color: #f0f4f7;
+  background: linear-gradient(135deg, #FAF3E0 0%, #F4E4D7 100%);
+  padding: 2rem;
+  border-radius: 16px;
+  border-left: 4px solid #5A7D9A;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  margin: 2rem 0;
+}
+
+/* Hero-Bereich für Startseite */
+.hero {
+  background: linear-gradient(135deg, #FAF3E0 0%, #F4E4D7 100%);
+  padding: 3rem 2rem;
+  border-radius: 16px;
+  margin-bottom: 2rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+.hero h2 {
+  color: #E76F51;
+  font-family: 'Poppins', sans-serif;
+  font-size: 2.2rem;
+  margin-bottom: 1rem;
+}
+
+/* Bildstil im Editorial-Format */
+img {
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  transition: all 0.3s ease;
+}
+
+img:hover {
+  box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+  transform: scale(1.02);
+}
+
+/* Zitate im Editorial-Stil */
+blockquote {
+  border-left: 4px solid #E76F51;
+  background-color: #FAF3E0;
+  padding: 1.5rem 2rem;
+  margin: 2rem 0;
+  border-radius: 12px;
+  font-style: italic;
+  color: #2D3142;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.06);
+}
+
+/* Code-Blöcke mit sanftem Stil */
+pre {
+  background-color: #2D3142;
+  color: #FAF3E0;
   padding: 1.5rem;
-  border-radius: 8px;
-  border-left: 4px solid #2c5f7c;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  overflow-x: auto;
 }
 
-/* Professionelle Callout-Boxen */
-.callout {
-  border-radius: 8px;
+code {
+  background-color: #F4E4D7;
+  color: #E76F51;
+  padding: 0.2rem 0.5rem;
+  border-radius: 6px;
+  font-size: 0.9em;
 }
 
-.callout-title {
+pre code {
+  background-color: transparent;
+  color: inherit;
+  padding: 0;
+  border-radius: 0;
+}
+
+/* Horizontale Linien mit Stil */
+hr {
+  border: none;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, #E76F51, transparent);
+  margin: 2rem 0;
+  opacity: 0.3;
+}
+
+/* Termin-Hinweis */
+.termin-hinweis {
+  background-color: white;
+  padding: 1.5rem;
+  border-radius: 12px;
+  border: 2px solid #E76F51;
+  margin-top: 1.5rem;
+  text-align: center;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.06);
+}
+
+.termin-hinweis strong {
+  color: #E76F51;
+  font-size: 1.1rem;
+}
+
+.termin-hinweis a {
+  color: #5A7D9A;
   font-weight: 600;
+  text-decoration: none;
+  border-bottom: 2px solid #5A7D9A;
+}
+
+.termin-hinweis a:hover {
+  color: #E76F51;
+  border-bottom-color: #E76F51;
+}
+
+/* Accessibility mit Farbanpassung */
+a:focus,
+button:focus {
+  outline: 3px solid #E76F51;
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+/* Skip-to-content Link */
+.skip-to-content {
+  position: absolute;
+  top: -40px;
+  left: 0;
+  background: #E76F51;
+  color: white;
+  padding: 8px;
+  text-decoration: none;
+  border-radius: 0 0 8px 0;
+}
+
+.skip-to-content:focus {
+  top: 0;
 }
 
 /* Print-Styles */
@@ -65,25 +211,39 @@ p {
   main {
     margin: 0;
     padding: 0;
+    box-shadow: none;
   }
-}
 
-/* Accessibility */
-a:focus,
-button:focus {
-  outline: 2px solid #2c5f7c;
-  outline-offset: 2px;
+  * {
+    background: white !important;
+    color: black !important;
+    box-shadow: none !important;
+  }
 }
 
 /* Mobile Optimierungen */
 @media (max-width: 768px) {
+  .oeffnungszeiten-box {
+    padding: 1.5rem;
+  }
+
   .oeffnungszeiten-box td {
     display: block;
-    padding: 0.3rem 0;
+    padding: 0.5rem 0;
+    border-bottom: none;
   }
 
   .oeffnungszeiten-box td:first-child {
     width: 100%;
+    margin-bottom: 0.25rem;
+  }
+
+  .hero {
+    padding: 2rem 1.5rem;
+  }
+
+  .hero h2 {
+    font-size: 1.6rem;
   }
 
   table {
@@ -104,4 +264,37 @@ button:focus {
   h2 {
     font-size: 1.3rem;
   }
+
+  .oeffnungszeiten-box,
+  .contact-info,
+  .hero {
+    padding: 1rem;
+    border-radius: 12px;
+  }
+}
+
+/* Smooth Scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Fokus-Indikatoren für Tastaturnavigation */
+*:focus-visible {
+  outline: 3px solid #E76F51;
+  outline-offset: 2px;
+}
+
+/* Animationen für sanftere Übergänge */
+@media (prefers-reduced-motion: no-preference) {
+  * {
+    transition: background-color 0.3s ease,
+                color 0.3s ease,
+                transform 0.3s ease,
+                box-shadow 0.3s ease;
+  }
+}
+
+/* Dark Mode Vorbereitung (optional) */
+@media (prefers-color-scheme: dark) {
+  /* Kann später aktiviert werden, falls gewünscht */
 }

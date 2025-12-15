@@ -2,6 +2,9 @@ project:
   type: website
   output-dir: _site
 
+# Brand Guidelines Integration
+brand: _brand.yml
+
 website:
   title: "Gynäkologische Praxis Musterfrau"
   description: "Gynäkologische Praxis Musterfrau - Ihre Praxis in Berlin"
