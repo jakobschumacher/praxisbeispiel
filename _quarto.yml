@@ -23,10 +23,6 @@ website:
         href: leistungen.qmd
       - text: "Kontakt"
         href: kontakt.qmd
-      - text: "Impressum"
-        href: impressum.qmd
-      - text: "Datenschutz"
-        href: datenschutz.qmd
 
   page-footer:
     background: dark

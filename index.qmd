@@ -21,9 +21,6 @@ Vereinbaren Sie gerne einen Termin mit uns!
 
 ## Unsere Öffnungszeiten
 
-::: {.callout-note appearance="simple" icon="false"}
-## Sprechzeiten
-
 | Tag | Zeiten |
 |-----|--------|
 | **Montag** | 08:00 - 12:00 und 14:00 - 18:00 Uhr |
@@ -37,4 +34,3 @@ Vereinbaren Sie gerne einen Termin mit uns!
 **Termine nur nach Vereinbarung.**
 
 Bitte rufen Sie uns an: [030 123 456 78](tel:03012345678)
-:::

@@ -57,7 +57,4 @@ Auf Wunsch bieten wir auch erweiterte Untersuchungen und Behandlungen an, die ni
 
 ---
 
-::: {.callout-tip}
-## Haben Sie Fragen?
-Wir beraten Sie gerne persönlich zu unserem Leistungsangebot.
-:::
+**Haben Sie Fragen?** Wir beraten Sie gerne persönlich zu unserem Leistungsangebot.
