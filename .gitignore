@@ -1,10 +1,16 @@
-# Hugo build output
-/public/
-/resources/_gen/
-/resources/.cache/
+# Quarto output
+/_site/
+/.quarto/
 
-# Hugo cache
-.hugo_build.lock
+# R and Python
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
 
 # OS files
 .DS_Store

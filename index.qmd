@@ -1,5 +1,5 @@
 ---
-title: "Startseite"
+title: "Herzlich willkommen in unserer Praxis"
 ---
 
 Wir freuen uns, Sie in unserer gynäkologischen Praxis begrüßen zu dürfen. Mit langjähriger Erfahrung und modernster medizinischer Ausstattung begleiten wir Sie kompetent in allen Fragen der Frauengesundheit.
@@ -16,3 +16,25 @@ Unser Ziel ist es, Ihnen in einer vertrauensvollen und angenehmen Atmosphäre di
 - Und vieles mehr
 
 Vereinbaren Sie gerne einen Termin mit uns!
+
+---
+
+## Unsere Öffnungszeiten
+
+::: {.callout-note appearance="simple" icon="false"}
+## Sprechzeiten
+
+| Tag | Zeiten |
+|-----|--------|
+| **Montag** | 08:00 - 12:00 und 14:00 - 18:00 Uhr |
+| **Dienstag** | 08:00 - 12:00 und 14:00 - 18:00 Uhr |
+| **Mittwoch** | 08:00 - 12:00 Uhr |
+| **Donnerstag** | 08:00 - 12:00 und 14:00 - 18:00 Uhr |
+| **Freitag** | 08:00 - 12:00 Uhr |
+| **Samstag** | Geschlossen |
+| **Sonntag** | Geschlossen |
+
+**Termine nur nach Vereinbarung.**
+
+Bitte rufen Sie uns an: [030 123 456 78](tel:03012345678)
+:::

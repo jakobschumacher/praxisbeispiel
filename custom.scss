@@ -1,0 +1,129 @@
+/*-- scss:defaults --*/
+
+// Farben für die Praxis-Website
+$primary: #2c5f7c !default;
+$secondary: #5a8ca8 !default;
+$success: #28a745 !default;
+$info: #17a2b8 !default;
+$warning: #ffc107 !default;
+$danger: #dc3545 !default;
+$light: #f8f9fa !default;
+$dark: #1a3d52 !default;
+
+// Typografie
+$font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !default;
+$headings-font-weight: 600 !default;
+
+// Navbar
+$navbar-bg: $primary !default;
+$navbar-fg: white !default;
+
+// Footer
+$footer-bg: $dark !default;
+$footer-fg: white !default;
+
+/*-- scss:rules --*/
+
+// Navbar Anpassungen
+.navbar {
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.navbar-brand {
+  font-weight: 600;
+  font-size: 1.3rem;
+}
+
+// Footer Anpassungen
+.nav-footer {
+  background-color: $footer-bg;
+  color: $footer-fg;
+  padding: 2rem 0 1rem;
+  margin-top: 3rem;
+
+  a {
+    color: #a8d5f2;
+
+    &:hover {
+      color: white;
+    }
+  }
+}
+
+// Hauptinhalt
+#quarto-content {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+// Überschriften
+h1, h2, h3, h4, h5, h6 {
+  color: $primary;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+h1 {
+  border-bottom: 3px solid $primary;
+  padding-bottom: 0.5rem;
+}
+
+h2 {
+  border-bottom: 2px solid lighten($primary, 30%);
+  padding-bottom: 0.3rem;
+}
+
+// Links
+a {
+  color: $primary;
+
+  &:hover {
+    color: darken($primary, 10%);
+  }
+}
+
+// Tabellen
+table {
+  margin: 1.5rem 0;
+
+  thead {
+    background-color: lighten($primary, 45%);
+  }
+
+  tbody tr:hover {
+    background-color: lighten($primary, 48%);
+  }
+}
+
+// Callout-Boxen
+.callout {
+  margin: 1.5rem 0;
+
+  &.callout-note {
+    border-left-color: $primary;
+  }
+}
+
+// Listen
+ul, ol {
+  margin-bottom: 1rem;
+
+  li {
+    margin-bottom: 0.5rem;
+  }
+}
+
+// Responsive Anpassungen
+@media (max-width: 768px) {
+  .navbar-brand {
+    font-size: 1.1rem;
+  }
+
+  h1 {
+    font-size: 1.8rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+}

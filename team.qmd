@@ -8,6 +8,7 @@ title: "Unser Team"
 Dr. med. Erika Musterfrau ist die Inhaberin unserer Praxis. Nach ihrem Medizinstudium an der Charité Berlin absolvierte sie ihre Facharztausbildung an renommierten Kliniken. Seit über 15 Jahren ist sie in der gynäkologischen Versorgung tätig.
 
 **Fachliche Schwerpunkte:**
+
 - Gynäkologische Onkologie
 - Pränatale Diagnostik
 - Hormonelle Therapie

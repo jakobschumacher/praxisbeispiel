@@ -36,7 +36,7 @@ Diese Website wird bei GitHub Pages gehostet. Anbieter ist die GitHub Inc., 88 C
 
 GitHub kann Verbindungsdaten, IP-Adressen und andere technische Informationen bei jedem Besuch dieser Website erfassen. Die Datenverarbeitung dient der Gewährleistung eines sicheren und stabilen Websitebetriebs sowie der Analyse und Verbesserung des Dienstes.
 
-Weitere Informationen finden Sie in der Datenschutzerklärung von GitHub: https://docs.github.com/de/site-policy/privacy-policies/github-privacy-statement
+Weitere Informationen finden Sie in der Datenschutzerklärung von GitHub: [https://docs.github.com/de/site-policy/privacy-policies/github-privacy-statement](https://docs.github.com/de/site-policy/privacy-policies/github-privacy-statement)
 
 ---
 
